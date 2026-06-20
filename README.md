@@ -1,5 +1,5 @@
 # merging concepts
 A
 
-# second file 
-B
+# feature branch 
+c
